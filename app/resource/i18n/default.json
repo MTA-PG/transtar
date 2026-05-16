@@ -1,0 +1,46 @@
+{
+	"config.WeddingVenue.name": "Wedding Venue",
+	"config.WeddingVenue.description": "Choose where you would like your wedding to be held.",
+	"config.WeddingVenue.values.Beach": "Beach",
+	"config.WeddingVenue.values.CC": "Community Centre",
+	"config.WeddingVenue.values.Desert": "Desert",
+	"config.WeddingVenue.values.Meadow": "Meadow",
+	"config.WeddingVenue.values.River": "River",
+	"config.WeddingVenue.values.Town": "Town",
+	"config.WeddingVenue.values.Forest": "Secret Woods",
+	
+	"config.MultiplayerWedding.name": "Multiplayer Wedding",
+	"config.MultiplayerWedding.description": "Only enable this if you are marrying another player instead of an NPC.",
+
+	"CWC.RomanticPlatonic.Wedding": "wedding",
+	"CWC.RomanticPlatonic.Ceremony": "commitment ceremony",
+	"CWC.RomanticPlatonic.Married": "married",
+
+	// For translators: {{Spouse}} has been switched to [CharacterName [SpouseActor]]. Along with other tokens, this should not be translated or things will break.
+
+	"CWC.Wedding.1.Vanilla": "Welcome, everyone, on this fine {{SeasonToken}} day to the {{RomanticPlatonicToken}} of @ and [CharacterName [SpouseActor]].#$b#It always warms my heart to see two people decide to entwine their lives like this.#$b#I think I speak for us all in giving you both our heartfelt congratulations on this most wonderful of occasions.$h#$b#I'll start by saying a few words about @ and then {{SpouseFamilyNameToken}} has asked to speak about [CharacterName [SpouseActor]].",
+	"CWC.Wedding.1.NonVanilla": "Welcome, everyone, on this fine {{SeasonToken}} day to the {{RomanticPlatonicToken}} of @ and [CharacterName [SpouseActor]].#$b#It always warms my heart to see two people decide to entwine their lives like this.#$b#I think I speak for us all in giving you both our heartfelt congratulations on this most wonderful of occasions.$h#$b#I'll start by saying a few words.",
+	"CWC.Wedding.1.Multiplayer": "Welcome, everyone, on this fine {{SeasonToken}} day to the wedding of @ and [CharacterName [SpouseActor]].#$b#It always warms my heart to see two people decide to entwine their lives like this.#$b#I think I speak for us all in giving you both our heartfelt congratulations on this most wonderful of occasions.$h#$b#I'll start by saying a few words about each half of our happy couple.", //&&New!
+	"CWC.Wedding.2": "@, my dear friend's grandchild... When you first arrived in Pelican Town, I don't think any of us expected just how much it would change our little community.#$b#You've cared for your grandfather's farm like your own child and you've become a great friend to many.#$b#I'm sure your family would be proud of you and [CharacterName [SpouseActor]].$h",
+	"CWC.Wedding.3.Multiplayer": "And [CharacterName [SpouseActor]]... You've worked so hard to get to where you are and to achieve the milestones you've reached.#$b#You've been an inspiration to many in our community, I'm sure, and our lives are all the richer for being able to call you our friend and neighbour.$h", //&&New!
+	"CWC.Wedding.3.Caroline": "My darling Abigail, you've always had an adventurous soul.#$b#That scared us sometimes, made us afraid that you'd go somewhere we couldn't keep you safe, but you're an adult now and it's time for you to fly the nest.#$b#I hope your new life with @ will be your heart's greatest adventure.$h",
+	"CWC.Wedding.3.Evelyn": "Oh Alex, dear. Your mother is smiling down on you and @ today.$h#$b#We're so proud of the fine young man you've become, and I know you and @ will make each other happy.#$b#That's all we've ever wanted for you.$h",
+	"CWC.Wedding.3.Leah": "Elliott... I thought about sharing a story here, but I couldn't narrow it down to just one.$h#$b#It's hard to put into words what I would normally put into paint, but you and @ inspire each other, anyone can see that.#$b#As long as you're together, you two can take on the world.$h",
+	"CWC.Wedding.3.Haley": "Emily, I don't think there's anyone else in the world that gets you like @ does.#$b#...that sounds like an insult, but it's not. I'm really happy for you that you've found each other and you can share your lives like this.#$b#Look after each other, okay?$h",
+	"CWC.Wedding.3.Emily": "Haley, my sister, we've had our share of disagreements over the years. But I've always wanted you to live a life of happiness.#$b#When your aura started mingling with @'s, I was overwhelmed by the feeling of joy in your future, and I'm so glad that it came to pass.$h#$b#May Yoba bless you and @ and bring you many long years of comfort and joy.$7",
+	"CWC.Wedding.3.Gus": "Our dear Doctor Harvey! My friend, you've finally found someone who'll look after you in the same way that you look after others.#$b#You and @ embody the heart of our community, a warm and steadfast care that doesn't falter or fear.$h#$b#May it be a light that guides you forward.$h",
+	"CWC.Wedding.3.Elliott": "Ah Leah, my dear friend! What else could I do but pour my heart into my words today?#$b#Is there any greater joy / Than to see my friends aglow with love / My heartbeat echoes in their tales / My soul filled up with mirrored smiles.#$b#May every morning be bright and every evening be sweet, and may you always rejoice in each other.$h",
+	"CWC.Wedding.3.Demetrius": "Maru, your mother and I are so proud of you. Look at you, reaching for your dreams with @ by your side!$h#$b#You'll always be my little girl, but it's time for me to step back and watch you chart your own path.#$b#I know you two are going to change the world together some day.",
+	"CWC.Wedding.3.Pam": "My baby girl, my Penny... I haven't always done the right thing by you, but you've grown into a woman any mother would be proud of.#$b#Ain't nobody luckier in this world than @ today, being the one who put that smile on your face.$h#$b#You two look after each other now, y'hear?$h",
+	"CWC.Wedding.3.Jodi": "Oh Sammy, my baby boy, you're all grown up now and off to start a family of your own...#$b#I worried that you might be jumping into things too young, but I trust you and @.#$b#You make each other laugh and smile, and that's all a mother can ask for.",
+	"CWC.Wedding.3.Robin": "Sebby, you once told me that no one would ever understand you and that you'd be alone forever.#$b#I was worried that you'd shut yourself away forever, but then @ came along and was persistent enough to get through those walls of yours despite everything.$h#$b#I'm so happy that you've both found someone who understands you like that.$h",
+	"CWC.Wedding.3.Marnie": "I... I'm so glad to see you this happy, Shane.$h#$b#I know you two didn't have the smoothest start together, but neither of you gave up on each other and it's so good to see you together now.#$b#You and @ will always be part of our family, Shane.$h",
+	"CWC.Wedding.4.Vanilla": "Thank you, {{SpouseFamilyNameToken}}, that was wonderful.$h#$b#Well then, let's continue on to the vows!",
+	"CWC.Wedding.4.NonVanilla": "Well then, let's continue on to the vows!",
+	"CWC.Wedding.4.Multiplayer": "Well then, let's continue on to the vows!", //&&New!
+	"CWC.Wedding.5": "@... I ask you in solemnity: will you promise to support [CharacterName [SpouseActor]] through prosperity and hardship,#$b#to celebrate the rewards of your hard work together,#$b#and to stand by each other no matter what?",
+	"CWC.Wedding.6": "I will",
+	"CWC.Wedding.7": "And [CharacterName [SpouseActor]]... I ask you also in solemnity: will you promise to care for @ through blessings and misfortunes,#$b#to cherish the time you spend together,#$b#and to stand by each other no matter what?",
+	"CWC.Wedding.8": "Always",
+	"CWC.Wedding.9": "@... [CharacterName [SpouseActor]]... #$b#As the mayor of Pelican Town, I now pronounce you {{MarriedOrPartnersToken}}!$h"
+}
